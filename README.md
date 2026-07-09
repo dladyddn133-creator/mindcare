@@ -123,11 +123,6 @@ def count_fingers(hand_landmarks, handedness):
 
 ---
 
-## ⚠️ 실행 전 참고
-
-- 저장소에는 **API 키·DB 비밀번호를 커밋하지 않습니다.** `API_KEY`, `playlist_id`, DB 접속 정보는 별도 설정 파일로 분리하고 `.gitignore` 처리하세요.
-- 힐링모드는 태양고도 계산을 위해 관측 위경도(`observer_latitude/longitude`)를 사용합니다.
-
 ---
 
 ## 📝 트러블슈팅 / 회고
