@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29833188/README.md)
 # mindcare# 🌱 1인 가구 마음챙김 (Mind-Care for Single-Person Households)
 
 > **Raspberry Pi + MediaPipe 기반 웰니스 IoT** — 집중/힐링 듀얼 모드로 1인 가구의 정신건강을 케어하는 스마트 조명·사운드 시스템  
