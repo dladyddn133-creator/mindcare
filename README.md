@@ -10,7 +10,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 <!-- 시연 영상 썸네일 클릭 시 유튜브로 연결 -->
-[![시연 영상](docs/images/demo_thumbnail.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![시연 영상](docs/images/demo_thumbnail.jpg)](https://youtu.be/J4WTrTwApo0?si=MoFiKRi4C5NRgB9T)
 
 ---
 
@@ -117,7 +117,7 @@ def count_fingers(hand_landmarks, handedness):
 
 ## 🎬 시연 영상
 
-[![시연 영상](docs/images/demo_thumbnail.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![시연 영상](docs/images/demo_thumbnail.jpg)](https://youtu.be/J4WTrTwApo0?si=MoFiKRi4C5NRgB9T)
 
 버튼으로 모드를 전환하며 졸음 감지 조명 제어, 제스처 음악 제어, 수면 데이터 DB 저장까지 확인할 수 있습니다.
 
